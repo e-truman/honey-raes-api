@@ -71,6 +71,16 @@
             "id": 2,
             "name": "Rose Schmitt",
             "specialty": "Printers"
+        },
+        {
+            "id": 3,
+            "name": "Wirt",
+            "specialty": "mischief"
+        },
+        {
+            "id": 4,
+            "name": "Jason Funderberger",
+            "specialty": "Microsoft Paint"
         }
     ],
     "serviceTickets": [
